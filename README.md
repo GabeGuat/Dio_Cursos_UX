@@ -8,7 +8,7 @@ Este projeto é um wireframe de média fidelidade de uma página de login, desen
 - **Fazer um wireframe de média fidelidade**
 
 ## 🛠️ Ferramentas Utilizadas
-- Miro
+- Miro e Figma
 
 ## 📸 Capturas de Tela
 As imagens detalhadas do wireframe podem ser encontradas na pasta `:images` deste repositório.

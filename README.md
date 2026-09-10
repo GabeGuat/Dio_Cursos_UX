@@ -11,4 +11,4 @@ Este projeto é um wireframe de média fidelidade de uma página de login, desen
 - Miro
 
 ## 📸 Capturas de Tela
-As imagens detalhadas do wireframe podem ser encontradas na pasta `/images` deste repositório.
+As imagens detalhadas do wireframe podem ser encontradas na pasta `:images` deste repositório.
